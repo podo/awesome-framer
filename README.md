@@ -29,6 +29,8 @@ A collection of [Framer.js](http://framerjs.com) resources, tutorials and other 
 * [Framer.js for people who think things like Framer.js are weird and hard](https://medium.com/@sean_mateer/framer-js-for-people-who-think-things-like-framer-js-are-weird-and-hard-add2068c8114#.epx95tg0t) — Sean Mateer makes weird and hard things look easy
 * [Prototyping & Working with Framer](http://humaan.com/prototyping-with-framer/) — A simple guide to getting started by Dan Moore
 * [Prototyping with Framer.js](http://blog.tackmobile.com/article/prototyping-framer-js/) - Framer.js basics by Tackmobile team
+* [Getting Started with Framer](http://www.cutandfold.co/blog/2015/9/7/making-you-first-framer-prototype) - Very basic Framer.js starting guide by Andrew Nalband
+* [Building Your First Prototype](http://www.cutandfold.co/blog/2015/9/8/building-your-first-prototype) - Second guide by Andrew Nalband, where you start building real prototype from Sketch file
 * [Creating Your First Prototype with Framer](https://medium.com/@kennycheny/creating-your-first-prototype-with-framer-c39221da7668#.3jcem1x61) - Animation tutorial by Kenny Chen
 * [Framer.js Workshop](http://codepen.io/collection/nRzzaZ/) — Collection of Framer.js examples by [Jay Stakelon](https://twitter.com/stakelon)
 * [Motion is Emotion: Prototyping Microinteractions for Apple Watch with Framer Studio](https://blog.grandcentrix.net/motion-is-emotion/) — Apple Watch temperature gauge prototype tutorial
