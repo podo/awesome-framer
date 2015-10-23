@@ -4,6 +4,7 @@ A collection of [Framer.js](http://framerjs.com) resources, tutorials and other 
 
 * [General](#general)
 * [Articles](#articles)
+* [Videos](#videos)
 * [Tutorials](#tutorials)
 * [Video Course](#video-courses)
 * [Books](#books)
@@ -17,10 +18,15 @@ A collection of [Framer.js](http://framerjs.com) resources, tutorials and other 
 * [Framer.js Official Site](http://framerjs.com)
 * [Framer.js Official Examples](http://framerjs.com/examples)
 * [Framer.js Documentation](http://framerjs.com/docs)
+* [Framer.js Facebook Group](https://www.facebook.com/groups/framerjs/)
 
 ## Articles
 * [Designer / coder, and not the other way around](https://medium.com/road-to-infinity/designer-coder-and-not-the-other-way-around-4288098986e1#.a1ks034fn) — Paul Cotton talks how he started using Framer.js
 * [Why Framer.js Matters](https://medium.com/@drocarmo/why-framer-js-matters-93eb1206e606#.846k6rca6) — Pedro Carmo on why Framer.js is a tool designers should start using
+
+## Videos
+* [Stripe Speaker Series: Designing with Framer](https://www.youtube.com/watch?v=mqk9Fw8FKLY) — Koen Bok and Jorn van Dijk give a short talk and Q&A focused on Framer that also covers prototyping in general and a discussion of the various design tools available in the market.
+* [FORM SF 2014: Panel - Design Tooling](https://www.youtube.com/watch?v=gX0n4JUl18g) - A discussion between creators of popular design tools (including Koen Bok from Framer) on the value of prototyping, lessons learned in crafting products for designers, and the future of UX tools.
 
 ## Tutorials
 * [Framer.js Official Basics](http://framerjs.com/learn/basics) — The place to start prototyping with Framer.js
