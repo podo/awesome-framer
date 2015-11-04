@@ -43,6 +43,7 @@ A collection of [Framer.js](http://framerjs.com) resources, tutorials and other 
 * [Periscope Heart Animation Demo at the Seattle FramerJS Meetup](https://www.youtube.com/watch?v=qFUXxqzZytU) - Presentation by [Jordan Dobson](https://twitter.com/jordandobson) on how to create Periscope heart animation with Framer.js
 * [Using Parse to power up your Framer prototypes](https://medium.com/facebook-design/using-parse-to-power-up-your-framer-prototypes-88cb87009d00#.8noe6r2wb) - Using Framer.js with real data Part 1 by George Kedenburg III
 * [Give your Framer prototypes a better memory](https://medium.com/facebook-design/give-your-framer-prototypes-a-better-memory-212b26e0f934#.6ws4983e7) - Using Framer.js with real data Part 2 by George Kedenburg III
+* [Working with SVG Paths in Framer](https://medium.com/framer-prototyping/working-with-svg-paths-in-framer-43d3c2d08adc) - Starting point for SVG Pats in Framer by Josh Puckett
 
 ## Video Courses
 * [Framerjs: Innovative prototyping and design with interaction](https://www.udemy.com/framerjs-prototyping-design-interaction-animation/?couponCode=FRAMER) — 54 parts, 6 hours course by [Adria Jimenez](https://twitter.com/ajimix)
