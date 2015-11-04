@@ -95,6 +95,7 @@ A collection of [Framer.js](http://framerjs.com) resources, tutorials and other 
 * [framer-viewNavigationController](https://github.com/chriscamargo/framer-viewNavigationController) - A simple controller for FramerJS that allows you to transition between views with just a couple lines of code.
 * [Layers-for-Framer](https://github.com/awt2542/Layers-for-Framer) - Framer.js module that makes it easier to find layers in your project
 * [Framer-Highlightr](https://github.com/jonahvsweb/Framer-Highlightr) - A custom Framer.js module that shows hotspots over clickable layers in your prototype.
+* [SVGLayer](https://github.com/joshpuckett/FramerModules/tree/master/SVGLayer) - A module and corresponding Sketch plugin that make it trivial to work with SVG Paths in Framer.
 
 ## Sites
 * [Prototyping With Framer](http://www.prototypingwithframer.com) — Blog by Kenny Chen with lots of great examples, tutorials
