@@ -11,6 +11,7 @@ A collection of [Framer.js](http://framerjs.com) resources, tutorials and other 
 * [Examples](#examples)
 * [Modules](#modules)
 * [Sites](#sites)
+* [Other](#other)
 
 ---
 
@@ -100,3 +101,6 @@ A collection of [Framer.js](http://framerjs.com) resources, tutorials and other 
 ## Sites
 * [Prototyping With Framer](http://www.prototypingwithframer.com) — Blog by Kenny Chen with lots of great examples, tutorials
 * [Framer Code](http://framerco.de) — A collection of FramerJS modules, code examples, snippets and tips.
+
+## Other
+* [Stitch](https://github.com/mattsjohnston/stitch) — Lightweight framework for adding interaction to your Framer prototypes directly from your Sketch designs.
