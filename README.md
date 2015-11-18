@@ -47,6 +47,7 @@ A collection of [Framer.js](http://framerjs.com) resources, tutorials and other 
 * [Working with SVG Paths in Framer](https://medium.com/framer-prototyping/working-with-svg-paths-in-framer-43d3c2d08adc) - Starting point for SVG Pats in Framer by Josh Puckett
 
 ## Video Courses
+* [Mobile App Prototyping: Designing Custom Interactions](https://www.skillshare.com/classes/design/Mobile-App-Prototyping-Designing-Custom-Interactions/382444545) — 50-minute Skillshare class on how to use mobile app prototyping to communicate your ideas and execute your vision by [Noah Levin](https://twitter.com/nlevin)
 * [Framerjs: Innovative prototyping and design with interaction](https://www.udemy.com/framerjs-prototyping-design-interaction-animation/?couponCode=FRAMER) — 54 parts, 6 hours course by [Adria Jimenez](https://twitter.com/ajimix)
 * [Prototyping with Framer](http://www.sketchcasts.net/episodes/prototyping-with-framer-part-1) — Three-part prototyping course by [Rafael Conde](https://twitter.com/rafahari)
 * [Rapid Prototyping with Framer](https://player.oreilly.com/videos/9781771374620) — 5-hour long prototyping course by [Kenny Chen](https://twitter.com/kennycheny)
