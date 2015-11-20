@@ -99,6 +99,7 @@ A collection of [Framer.js](http://framerjs.com) resources, tutorials and other 
 * [Framer-Highlightr](https://github.com/jonahvsweb/Framer-Highlightr) - A custom Framer.js module that shows hotspots over clickable layers in your prototype.
 * [SVGLayer](https://github.com/joshpuckett/FramerModules/tree/master/SVGLayer) - A module and corresponding Sketch plugin that make it trivial to work with SVG Paths in Framer.
 * [VRComponent](https://github.com/jonastreub/VRComponent) - A virtual reality component for Framer.
+* [3D Touch Module](http://jrdn.io/dO4r) - Module for iOS 3D Touch support by [Jordan Dobson](https://twitter.com/jordandobson)
 
 ## Sites
 * [Prototyping With Framer](http://www.prototypingwithframer.com) — Blog by Kenny Chen with lots of great examples, tutorials
