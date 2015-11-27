@@ -100,6 +100,10 @@ A collection of [Framer.js](http://framerjs.com) resources, tutorials and other 
 * [SVGLayer](https://github.com/joshpuckett/FramerModules/tree/master/SVGLayer) - A module and corresponding Sketch plugin that make it trivial to work with SVG Paths in Framer.
 * [VRComponent](https://github.com/jonastreub/VRComponent) - A virtual reality component for Framer.
 * [3D Touch Module](http://jrdn.io/dO4r) - Module for iOS 3D Touch support by [Jordan Dobson](https://twitter.com/jordandobson)
+* [Simple Android Ripple](https://github.com/imaaronjames/Simple-Android-Ripple) - A Framer Studio module for adding touch ripple animations to any layer
+* [Simple Android Keyboards](https://github.com/imaaronjames/Simple-Android-Keyboards) - Easily add a static Android Keyboard to your Framer Studio project with just one line of code.
+* [Simple Android Toast](https://github.com/imaaronjames/Simple-Android-Toast) - Use this module to easily add Android toasts to your Framer Studio projects.
+* [Simple Android Snackbar](https://github.com/imaaronjames/Simple-Android-Snackbar) - A Framer Studio module for adding Android Material Design Snackbars to your project
 
 ## Sites
 * [Prototyping With Framer](http://www.prototypingwithframer.com) — Blog by Kenny Chen with lots of great examples, tutorials
