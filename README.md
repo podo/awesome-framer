@@ -59,6 +59,7 @@ A collection of [Framer.js](http://framerjs.com) resources, tutorials and other 
 ## Examples
 * [Framer Experiments by Ed Chao](http://thatedchao.com/published/2014/09/27/framer.html) - Several awesome examples with download links from designer at Dropbox.
 * [HSL Color Picker](http://share.framerjs.com/ft0uwf1jweid/) - HSL Color Picker by Framer.js team
+* [iOS Toggle](http://share.framerjs.com/mraze47eux9w/) - iOS Toggle using Color class by [Jorn van Dijk](https://twitter.com/jornvandijk)
 
 ## Modules
 * [framer-googlefonts](https://github.com/peteschaffner/framer-googlefonts) - Google Fonts loader module for your Framer.js prototypes.
