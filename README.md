@@ -44,7 +44,8 @@ A collection of [Framer.js](http://framerjs.com) resources, tutorials and other 
 * [Periscope Heart Animation Demo at the Seattle FramerJS Meetup](https://www.youtube.com/watch?v=qFUXxqzZytU) - Presentation by [Jordan Dobson](https://twitter.com/jordandobson) on how to create Periscope heart animation with Framer.js
 * [Using Parse to power up your Framer prototypes](https://medium.com/facebook-design/using-parse-to-power-up-your-framer-prototypes-88cb87009d00#.8noe6r2wb) - Using Framer.js with real data Part 1 by George Kedenburg III
 * [Give your Framer prototypes a better memory](https://medium.com/facebook-design/give-your-framer-prototypes-a-better-memory-212b26e0f934#.6ws4983e7) - Using Framer.js with real data Part 2 by George Kedenburg III
-* [Working with SVG Paths in Framer](https://medium.com/framer-prototyping/working-with-svg-paths-in-framer-43d3c2d08adc) - Starting point for SVG Pats in Framer by Josh Puckett
+* [Working with SVG Paths in Framer](https://medium.com/framer-prototyping/working-with-svg-paths-in-framer-43d3c2d08adc) - Starting point for SVG Paths in Framer by Josh Puckett
+* [Managing Styles and CSS in Framer](http://martenbjork.com/2016/05/managing-styles-and-css-in-framer/) — Mårten Björk on styles management in Framer
 
 ## Video Courses
 * [Mobile App Prototyping: Designing Custom Interactions](https://www.skillshare.com/classes/design/Mobile-App-Prototyping-Designing-Custom-Interactions/382444545) — 50-minute Skillshare class on how to use mobile app prototyping to communicate your ideas and execute your vision by [Noah Levin](https://twitter.com/nlevin)
