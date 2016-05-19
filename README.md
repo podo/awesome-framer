@@ -108,6 +108,7 @@ A collection of [Framer.js](http://framerjs.com) resources, tutorials and other 
 * [Simple Android Keyboards](https://github.com/imaaronjames/Simple-Android-Keyboards) - Easily add a static Android Keyboard to your Framer Studio project with just one line of code.
 * [Simple Android Toast](https://github.com/imaaronjames/Simple-Android-Toast) - Use this module to easily add Android toasts to your Framer Studio projects.
 * [Simple Android Snackbar](https://github.com/imaaronjames/Simple-Android-Snackbar) - A Framer Studio module for adding Android Material Design Snackbars to your project
+* [Framer Path](https://github.com/vladimirshlygin/framer-path) - Create custom SVG shapes and animate each point individually
 
 ## Sites
 * [Prototyping With Framer](http://www.prototypingwithframer.com) — Blog by Kenny Chen with lots of great examples, tutorials
