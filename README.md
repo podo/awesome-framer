@@ -110,6 +110,7 @@ A collection of [Framer.js](http://framerjs.com) resources, tutorials and other 
 * [Simple Android Snackbar](https://github.com/imaaronjames/Simple-Android-Snackbar) - A Framer Studio module for adding Android Material Design Snackbars to your project
 * [Framer Path](https://github.com/vladimirshlygin/framer-path) - Create custom SVG shapes and animate each point individually
 * [Material Kit for FramerJS](https://github.com/k-vyn/framer-material-kit) - Make prototyping with Material Design fast and easy without compromising the quality or customization
+* [iOS Kit for FramerJS](https://github.com/k-vyn/framer-ios-kit) - Make prototyping for iOS fast and easy without compromising the quality or customization
 
 ## Sites
 * [Prototyping With Framer](http://www.prototypingwithframer.com) — Blog by Kenny Chen with lots of great examples, tutorials
