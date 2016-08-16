@@ -118,4 +118,5 @@ A collection of [Framer.js](http://framerjs.com) resources, tutorials and other 
 * [Framer Code](http://framerco.de) — A collection of FramerJS modules, code examples, snippets and tips.
 
 ## Other
+* [Framer Snippets](https://github.com/robotdestroy/Framer-Snippets-Library) — A library of Framer snippets to help speed up workflow
 * [Stitch](https://github.com/mattsjohnston/stitch) — Lightweight framework for adding interaction to your Framer prototypes directly from your Sketch designs.
