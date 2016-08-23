@@ -46,6 +46,10 @@ A collection of [Framer.js](http://framerjs.com) resources, tutorials and other 
 * [Give your Framer prototypes a better memory](https://medium.com/facebook-design/give-your-framer-prototypes-a-better-memory-212b26e0f934#.6ws4983e7) - Using Framer.js with real data Part 2 by George Kedenburg III
 * [Working with SVG Paths in Framer](https://medium.com/framer-prototyping/working-with-svg-paths-in-framer-43d3c2d08adc) - Starting point for SVG Paths in Framer by Josh Puckett
 * [Managing Styles and CSS in Framer](http://martenbjork.com/2016/05/managing-styles-and-css-in-framer/) — Mårten Björk on styles management in Framer
+* [Developing a Framer Module](https://medium.com/bpxl-craft/developing-a-framer-module-dbf6a7d6ffc9#.ju0gck7hd) - John Marstall teaches how to create a Framer Module
+* [Prototyping for Virtual Reality using Framer JS](https://uxdesign.cc/vr-based-viewmaster-in-framer-js-72858df6570f#.r8ylyzbks) - Excerpts of some interaction considerations Keyur Jain learned of while prototyping for a Virtual Reality experience in Framer JS
+* [Prototyping Speech Recognition in Framer.js](https://medium.com/framer-prototyping/prototyping-speech-recognition-in-framer-js-9cbbbd01757#.dkwuowqwy) - Brian Bailey gives a breaf introduction to speach recognition prototyping in Framer
+* [Power your Framer prototypes with real location data](https://www.mapbox.com/blog/power-framer-prototype-with-mapbox/) - Maya Gao on Framer prototypes with real location data using Mapbox API
 
 ## Video Courses
 * [Mobile App Prototyping: Designing Custom Interactions](https://www.skillshare.com/classes/design/Mobile-App-Prototyping-Designing-Custom-Interactions/382444545) — 50-minute Skillshare class on how to use mobile app prototyping to communicate your ideas and execute your vision by [Noah Levin](https://twitter.com/nlevin)
