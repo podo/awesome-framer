@@ -58,7 +58,7 @@ A collection of [Framer.js](http://framerjs.com) resources, tutorials and other 
 * [Rapid Prototyping with Framer](https://player.oreilly.com/videos/9781771374620) - 5-hour long prototyping course by [Kenny Chen](https://twitter.com/kennycheny)
 * [Prototyping With Framer.js](https://generalassemb.ly/education/prototyping-with-framerjs) - On-location course instructed by [Jay Stakelon](https://twitter.com/stakelon), [Noah Levin](https://twitter.com/nlevin) and [Cemre Güngör](https://twitter.com/gem_ray)
 * [UI Prototyping with Framer.js](https://www.pluralsight.com/courses/ui-prototyping-framer-js) - Almost 5 hours long course by [Jay Stakelon](https://twitter.com/stakelon)
-* [Framercasts](http://www.framercasts.com/) — Advance your Framer knowledge with real world examples produced by [Mike Johnson](https://twitter.com/failsafedesign)
+* [Framercasts](http://www.framercasts.com/) - Advance your Framer knowledge with real world examples produced by [Mike Johnson](https://twitter.com/failsafedesign)
 
 ## Books
 * [CoffeeScript for Framer](http://coffeescript-for-framerjs.com) by [Tessa Thornton](https://twitter.com/tessthornton)
