@@ -119,6 +119,7 @@ A collection of [Framer.js](http://framerjs.com) resources, tutorials and other 
 * [framer-Firebase](https://github.com/marckrenn/framer-Firebase) - The Firebase module allows your Framer prototype to load, save and sync data effortlessly between multiple sessions and devices.
 * [spotifyApiFramer](https://github.com/mamezito/spotifyApiFramer) - Framer module that allows to get JSON objects when querying with Spotify API
 * [ViewController-for-Framer](https://github.com/awt2542/ViewController-for-Framer) - Module for Framer.js helps you create multi step user flows with pre-made transitions like "fade in", "zoom in" and "slide in".
+* [Gridddle](https://github.com/Volorf/Gridddle) - Grid module for FramerJS
 
 ## Sites
 * [Prototyping With Framer](http://www.prototypingwithframer.com) - Blog by Kenny Chen with lots of great examples, tutorials
