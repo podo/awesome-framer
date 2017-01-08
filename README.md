@@ -120,6 +120,14 @@ A collection of [Framer.js](http://framerjs.com) resources, tutorials and other 
 * [spotifyApiFramer](https://github.com/mamezito/spotifyApiFramer) - Framer module that allows to get JSON objects when querying with Spotify API
 * [ViewController-for-Framer](https://github.com/awt2542/ViewController-for-Framer) - Module for Framer.js helps you create multi step user flows with pre-made transitions like "fade in", "zoom in" and "slide in".
 * [Gridddle](https://github.com/Volorf/Gridddle) - Grid module for FramerJS
+* [SliderLibrary](https://github.com/floludwig/SliderLibrary) - A framer.js library for creating sliders.
+* [StickyHeaders-for-Framer](https://github.com/72/StickyHeaders-for-Framer) - A module to enable sticky headers within Framer's Scroll Components.
+* [framer-view-stack](https://github.com/alandickinson/framer-view-stack) - A Framer module for creating views that stack on top of each other.
+* [RemoteLayer](https://github.com/bpxl-labs/RemoteLayer) - The RemoteLayer module allows you to instantly generate an interactive Apple TV remote for your tvOS app prototypes.
+* [distribute-layers](https://github.com/martenbjork/distribute-layers) - This package helps you position multiple Framer layers with ease.
+* [Framer-ValueLayer](https://github.com/tjphilli/Framer-ValueLayer) - ValueLayer is a Layer subclass dedicated to helping you manage numbers in your prototypes, and animate between them.
+* [perspective-view](https://github.com/mrrocks/perspective-view) - Module for FramerJS to enable a perspective view of your prototype.
+* [Pair](https://github.com/IanBellomy/Pair) - A Drag and Drop module for Framer.
 
 ## Sites
 * [Prototyping With Framer](http://www.prototypingwithframer.com) - Blog by Kenny Chen with lots of great examples, tutorials
