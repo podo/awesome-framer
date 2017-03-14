@@ -22,10 +22,10 @@
 ---
 
 ## General
-* [Framer Official Site](http://framer.com)
-* [Framer Official Examples](http://framer.com/examples)
-* [Framer Documentation](http://framer.com/docs)
-* [Framer Facebook Group](https://www.facebook.com/groups/framerjs/)
+* [Official Site](http://framer.com)
+* [Official Examples](http://framer.com/examples)
+* [Documentation](http://framer.com/docs)
+* [Facebook Group](https://www.facebook.com/groups/framerjs/)
 
 ## Articles
 * [Designer / coder, and not the other way around](https://medium.com/road-to-infinity/designer-coder-and-not-the-other-way-around-4288098986e1#.a1ks034fn) - Paul Cotton talks how he started using Framer.
