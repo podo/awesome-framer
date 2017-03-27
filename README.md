@@ -65,6 +65,7 @@
 * [Prototyping With Framer.js](https://generalassemb.ly/education/prototyping-with-framerjs) - On-location course instructed by [Jay Stakelon](https://twitter.com/stakelon), [Noah Levin](https://twitter.com/nlevin) and [Cemre Güngör](https://twitter.com/gem_ray).
 * [UI Prototyping with Framer.js](https://www.pluralsight.com/courses/ui-prototyping-framer-js) - Almost 5 hours long course by [Jay Stakelon](https://twitter.com/stakelon).
 * [Framercasts](http://www.framercasts.com/) - Advance your Framer knowledge with real world examples produced by [Mike Johnson](https://twitter.com/failsafedesign).
+* [Framer for UX Design](https://www.lynda.com/FramerJS-tutorials/UX-Design-Tools-Framer/562923-2.html) - Emmanuel Henri shows both how to use non-coding Framer tools and how the usage of programming fits into the UX design process.
 
 ## Books
 * [CoffeeScript for Framer](http://coffeescript-for-framerjs.com) by [Tessa Thornton](https://twitter.com/tessthornton)
@@ -135,6 +136,7 @@
 * [perspective-view](https://github.com/mrrocks/perspective-view) - Module for FramerJS to enable a perspective view of your prototype.
 * [Pair](https://github.com/IanBellomy/Pair) - Drag and Drop module for Framer.
 * [Cloudstitch Framer Module](https://github.com/cloudstitch/framer.module.cloudstitch) - Module lets you load data from Google Spreadsheets and Microsoft Excel directly into your Framer projects.
+* [framer-QueryInterface](https://github.com/marckrenn/framer-QueryInterface) - Module that allows Framer prototypes to read variables from and write variables to the last part of their URL (the query).
 
 ## Sites
 * [Prototyping With Framer](http://www.prototypingwithframer.com) - Blog by Kenny Chen with lots of great examples, tutorials.
