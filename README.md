@@ -69,6 +69,7 @@
 
 ## Books
 * [CoffeeScript for Framer](http://coffeescript-for-framerjs.com) by [Tessa Thornton](https://twitter.com/tessthornton)
+* [The Framer book](https://framerbook.com) by [Tes Mat](https://twitter.com/cptv8)
 
 ## Examples
 * [Framer Experiments by Ed Chao](http://thatedchao.com/published/2014/09/27/framer.html) - Several awesome examples with download links from designer at Dropbox.
