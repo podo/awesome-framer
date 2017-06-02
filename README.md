@@ -139,10 +139,9 @@
 * [Cloudstitch Framer Module](https://github.com/cloudstitch/framer.module.cloudstitch) - Module lets you load data from Google Spreadsheets and Microsoft Excel directly into your Framer projects.
 * [framer-QueryInterface](https://github.com/marckrenn/framer-QueryInterface) - Module that allows Framer prototypes to read variables from and write variables to the last part of their URL (the query).
 * [StatusBarLayer](https://github.com/bpxl-labs/StatusBarLayer) - Module for generating accurate, customizable status bars for iOS app prototypes.
-* [Loading Placeholder](https://github.com/zehfernandes/framer-loadingplaceholder) - Module which instantly creates loading placeholder based on your layer style
+* [Loading Placeholder](https://github.com/zehfernandes/framer-loadingplaceholder) - Module which instantly creates loading placeholder based on your layer style.
 * [bodymovin for Framer](https://github.com/72/bodymovin-for-Framer) - Module that renders JSON files exported with the Bodymovin plugin from After Effects.
-
-
+* [ControlPanelLayer](https://github.com/bpxl-labs/ControlPanelLayer) - Framer module for creating a developer panel to control aspects of the prototype from within the prototype.
 
 ## Sites
 * [Prototyping With Framer](http://www.prototypingwithframer.com) - Blog by Kenny Chen with lots of great examples, tutorials.
