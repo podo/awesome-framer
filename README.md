@@ -154,6 +154,7 @@
 ## Other
 * [Framer Snippets](https://github.com/robotdestroy/Framer-Snippets-Library) - Library of Framer snippets to help speed up workflow.
 * [Stitch](https://github.com/mattsjohnston/stitch) - Lightweight framework for adding interaction to your Framer prototypes directly from your Sketch designs.
+* [framer-boostrap](https://github.com/alexchantastic/framer-bootstrap) - Use Framer Library in your preferred editor and environment.
 
 ---
 
