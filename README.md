@@ -148,6 +148,7 @@
 * [FocusEngine](https://github.com/bpxl-labs/FocusEngine) - Module for simulating the grid focus behavior found on Apple TV and Roku.
 * [MapboxLayer](https://github.com/bpxl-labs/MapboxLayer) - Module for creating powerful Mapbox maps in your prototypes.
 * [Framer Sheet](https://github.com/andrewliebchen/framer-sheet) - Import information from Google Sheets into Framer.
+* [FramerAudio](https://github.com/benjamindenboer/FramerAudio) — Module that allows you to design audio interfaces in Framer.
 
 ## Sites
 * [Prototyping With Framer](http://www.prototypingwithframer.com) - Blog by Kenny Chen with lots of great examples, tutorials.
