@@ -74,7 +74,7 @@
 * [The Framer book](https://framerbook.com) by [Tes Mat](https://twitter.com/cptv8)
 
 ## Examples
-* [Framer Experiments by Ed Chao](http://thatedchao.com/published/2014/09/27/framer.html) - Several awesome examples with download links from designer at Dropbox.
+* [Framer Experiments by Ed Chao](http://thatedchao.com/published/2014/10/27/framer.html) - Several awesome examples with download links from designer at Dropbox.
 * [HSL Color Picker](http://share.framerjs.com/ft0uwf1jweid/) - HSL Color Picker by Framer team.
 * [iOS Toggle](http://share.framerjs.com/mraze47eux9w/) - iOS Toggle using Color class by [Jorn van Dijk](https://twitter.com/jornvandijk).
 
