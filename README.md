@@ -154,7 +154,7 @@
 * [framer-Symbols](https://github.com/der-lukas/framer-Symbols) - Module to create symbols in Framer.
 * [framer-moreutils](https://github.com/steveruizok/framer-moreutils) - Expand Utils with some handy helper functions.
 * [framer-keyboardEvents](https://github.com/marckrenn/framer-keyboardEvents) - Hassle-free keyboard bindings for Framer: No need to look up keyCodes; supports 100+ keys with minimal performance impact.
-
+* [Framer-Joystick](https://github.com/emilwidlund/framer-joystick) - A Framer module for Gamepad-driven UI prototypes.
 
 
 ## Sites
