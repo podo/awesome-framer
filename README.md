@@ -68,6 +68,7 @@
 * [Framer for UX Design](https://www.lynda.com/FramerJS-tutorials/UX-Design-Tools-Framer/562923-2.html) - Emmanuel Henri shows both how to use non-coding Framer tools and how the usage of programming fits into the UX design process.
 * [Framer Crash Course](https://www.youtube.com/playlist?list=PLWlUJU11tp4f41p4dzizVkjjTQ38kA0wG) - Crash course learning the basics of design and code on Framer.
 * [designers.how Framer Courses](https://designers.how/topics/framer) - List of basic and more advanced Framer courses.
+* [Framer Studio for Beginners: A Comprehensive Guide](https://www.youtube.com/playlist?list=PLIZVb6Yuw91yGUNbSNEHvWWHkdol6SJUW) - Series of videos that walk you through designing and coding in Framer using hands-on projects by [Cordova Putra](https://twitter.com/cordova)
 
 ## Books
 * [CoffeeScript for Framer](http://coffeescript-for-framerjs.com) by [Tessa Thornton](https://twitter.com/tessthornton)
