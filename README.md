@@ -144,7 +144,7 @@
 * [framer-QueryInterface](https://github.com/marckrenn/framer-QueryInterface) - Module that allows Framer prototypes to read variables from and write variables to the last part of their URL (the query).
 * [StatusBarLayer](https://github.com/bpxl-labs/StatusBarLayer) - Module for generating accurate, customizable status bars for iOS app prototypes.
 * [Loading Placeholder](https://github.com/zehfernandes/framer-loadingplaceholder) - Module which instantly creates loading placeholder based on your layer style.
-* [lottie-framer](https://github.com/72/lottie-framer) - A Framer module that uses AirBnb's Lottie-Web to render animations exported from After Effects (JSON files).
+* [lottie-framer](https://github.com/72/lottie-framer) - Framer module that uses AirBnb's Lottie-Web to render animations exported from After Effects (JSON files).
 * [ControlPanelLayer](https://github.com/bpxl-labs/ControlPanelLayer) - Framer module for creating a developer panel to control aspects of the prototype from within the prototype.
 * [GradientHelper](https://github.com/bpxl-labs/GradientHelper) - Module that simplifies the process of applying gradients to Framer layers and even enables animated gradients.
 * [FocusEngine](https://github.com/bpxl-labs/FocusEngine) - Module for simulating the grid focus behavior found on Apple TV and Roku.
@@ -156,7 +156,8 @@
 * [framer-Symbols](https://github.com/der-lukas/framer-Symbols) - Module to create symbols in Framer.
 * [framer-moreutils](https://github.com/steveruizok/framer-moreutils) - Expand Utils with some handy helper functions.
 * [framer-keyboardEvents](https://github.com/marckrenn/framer-keyboardEvents) - Hassle-free keyboard bindings for Framer: No need to look up keyCodes; supports 100+ keys with minimal performance impact.
-* [Framer-Joystick](https://github.com/emilwidlund/framer-joystick) - A Framer module for Gamepad-driven UI prototypes.
+* [Framer-Joystick](https://github.com/emilwidlund/framer-joystick) - Framer module for Gamepad-driven UI prototypes.
+* [Framer-Feedback](https://github.com/aboutjax/Framer-Feedback) - Framer feedback module makes it easier for you to prototype with feedback messages.
 
 ## UI Libraries
 * [iOS 11 iPhone GUI](https://github.com/facebookincubator/ios-11-gui-for-framer) - Templates of GUI elements found in the public release of iOS 11.
