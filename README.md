@@ -57,6 +57,7 @@
 * [Prototyping for Virtual Reality using Framer JS](https://uxdesign.cc/vr-based-viewmaster-in-framer-js-72858df6570f#.r8ylyzbks) - Excerpts of some interaction considerations Keyur Jain learned of while prototyping for a Virtual Reality experience in Framer.
 * [Prototyping Speech Recognition in Framer.js](https://medium.com/framer-prototyping/prototyping-speech-recognition-in-framer-js-9cbbbd01757#.dkwuowqwy) - Brian Bailey gives a breaf introduction to speach recognition prototyping in Framer.
 * [Power your Framer prototypes with real location data](https://www.mapbox.com/blog/power-framer-prototype-with-mapbox/) - Maya Gao on Framer prototypes with real location data using Mapbox API.
+* [How to Create High‑Quality GIFs](https://framer.com/blog/posts/how-to-create-high-quality-gifs) - How to Create High‑Quality GIFs, our guide to making amazing GIFs with some of our favorite tools: ScreenFlow and Claquette.
 
 ## Video Courses
 * [Mobile App Prototyping: Designing Custom Interactions](https://www.skillshare.com/classes/design/Mobile-App-Prototyping-Designing-Custom-Interactions/382444545) - 50-minute Skillshare class on how to use mobile app prototyping to communicate your ideas and execute your vision by [Noah Levin](https://twitter.com/nlevin).
@@ -142,7 +143,7 @@
 * [Pair](https://github.com/IanBellomy/Pair) - Drag and Drop module for Framer.
 * [Cloudstitch Framer Module](https://github.com/cloudstitch/framer.module.cloudstitch) - Module lets you load data from Google Spreadsheets and Microsoft Excel directly into your Framer projects.
 * [framer-QueryInterface](https://github.com/marckrenn/framer-QueryInterface) - Module that allows Framer prototypes to read variables from and write variables to the last part of their URL (the query).
-* [StatusBarLayer](https://github.com/bpxl-labs/StatusBarLayer) - Module for generating accurate, customizable status bars for iOS app prototypes.
+* [Framer StatusBarLayer](https://github.com/bpxl-labs/StatusBarLayer) - Module for generating accurate, customizable status bars for iOS app prototypes.
 * [Loading Placeholder](https://github.com/zehfernandes/framer-loadingplaceholder) - Module which instantly creates loading placeholder based on your layer style.
 * [lottie-framer](https://github.com/72/lottie-framer) - Framer module that uses AirBnb's Lottie-Web to render animations exported from After Effects (JSON files).
 * [ControlPanelLayer](https://github.com/bpxl-labs/ControlPanelLayer) - Framer module for creating a developer panel to control aspects of the prototype from within the prototype.
@@ -155,12 +156,24 @@
 * [iOS-11-Framer](https://github.com/brentcas/iOS-11-Framer) - iOS 11 Design System GUI for Framer.
 * [framer-Symbols](https://github.com/der-lukas/framer-Symbols) - Module to create symbols in Framer.
 * [framer-moreutils](https://github.com/steveruizok/framer-moreutils) - Expand Utils with some handy helper functions.
-* [framer-keyboardEvents](https://github.com/marckrenn/framer-keyboardEvents) - Hassle-free keyboard bindings for Framer: No need to look up keyCodes; supports 100+ keys with minimal performance impact.
-* [Framer-Joystick](https://github.com/emilwidlund/framer-joystick) - Framer module for Gamepad-driven UI prototypes.
-* [Framer-Feedback](https://github.com/aboutjax/Framer-Feedback) - Framer feedback module makes it easier for you to prototype with feedback messages.
+* [framer keyboardEvents](https://github.com/marckrenn/framer-keyboardEvents) - Hassle-free keyboard bindings for Framer: No need to look up keyCodes; supports 100+ keys with minimal performance impact.
+* [Framer Joystick](https://github.com/emilwidlund/framer-joystick) - Module for Gamepad-driven UI prototypes.
+* [Framer Feedback](https://github.com/aboutjax/Framer-Feedback) - Framer feedback module makes it easier for you to prototype with feedback messages.
+* [Framer-Bottom-Navigation](https://github.com/johnmpsherwin/Framer-Bottom-Navigation) - Framer Module to add Android's Bottom Navigation to your project.
+* [Framer Device Rotator](https://github.com/josephxbrick/DeviceRotator) - A Framer module that adds a rotation button to a phone/tablet when said is displayed in a desktop browser or in Framer Studio (but not on device).
+* [Keyboard Input for Framer](https://github.com/Skinny-Malinky/Keyboard-Input-for-Framer) - A module that allows you to easily manage keyboard input.
+* [Framer DesignComponents](https://github.com/sebcglbailey/framer-DesignComponents) - Module for converting your designs in design mode into full scalable classes in code, without a single line of code!.
+* [Framer Web Audio API Module](https://github.com/raulibanez/framer-audio) - A Framer module that provides better audio support for your Framer projects.
+* [Framer Status Bar Module](https://github.com/walnuttea/statusBar-module) - Module to initialize a status bar in a Framer application.
+* [Framer Android Picker](https://github.com/johnmpsherwin/Framer-Android-Picker) - An Android Picker Module.
+* [Yummy Framer](https://github.com/janwagner/yummyFramer) - Yummy provides custom layer functions such as LoadViews, LoadNextView, Fade & Move Layer.  
+* [Framer Font Loader](https://github.com/steveruizok/fontloader) - Painlessly, reliably load local and web fonts into Framer prototypes.
+* [Framer Form](https://github.com/emilwidlund/framer-form) - Give your Framer prototypes a third dimension.
+
 
 ## UI Libraries
 * [iOS 11 iPhone GUI](https://github.com/facebookincubator/ios-11-gui-for-framer) - Templates of GUI elements found in the public release of iOS 11.
+* [Framework](https://github.com/steveruizok/framework) - A general-purpose component kit for Framer.
 
 ## Sites
 * [Prototyping With Framer](http://www.prototypingwithframer.com) - Blog by Kenny Chen with lots of great examples, tutorials.
@@ -173,6 +186,10 @@
 * [framer-bootstrap](https://github.com/alexchantastic/framer-bootstrap) - Use Framer Library in your preferred editor and environment.
 * [Fiber](https://framer.com/fiber/) - A free interactive UI kit with 15 screens.
 * [Voyage](https://framer.com/voyage/) - A free travel-themed UI kit that’s fully interactive and made for Framer.
+* [iOS Kit](https://framer.com/assets/static/downloads/kits/ios-kit.zip) - Readymade elements for starting your next iOS app. Direct link.
+* [Android Kit](https://framer.com/assets/static/downloads/kits/android-kit.zip) - Material Design elements for your next Android app. Direct link.
+* [Web Kit](https://framer.com/assets/static/downloads/kits/web-kit.zip) - All the elements you’ll need to start your next web project. Direct link.
+* [Wireframe Kit](https://framer.com/assets/static/downloads/kits/wireframe-kit.zip) - Basic wireframe elements to blueprint your next big project. Direct link.
 
 ---
 
