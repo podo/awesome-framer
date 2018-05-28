@@ -169,6 +169,8 @@
 * [Yummy Framer](https://github.com/janwagner/yummyFramer) - Yummy provides custom layer functions such as LoadViews, LoadNextView, Fade & Move Layer.  
 * [Framer Font Loader](https://github.com/steveruizok/fontloader) - Painlessly, reliably load local and web fonts into Framer prototypes.
 * [Framer Form](https://github.com/emilwidlund/framer-form) - Give your Framer prototypes a third dimension.
+* [FramerMapboxJS](https://github.com/NocheVolta/FramerMapboxJS) - Another module to integrate Mapbox maps on your Framer prototypes.
+
 
 
 ## UI Libraries
