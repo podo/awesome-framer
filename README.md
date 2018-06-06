@@ -47,7 +47,7 @@
 * [Building Your First Prototype](http://www.cutandfold.co/blog/2015/9/8/building-your-first-prototype) - Second guide by Andrew Nalband, where you start building real prototype from Sketch file.
 * [Creating Your First Prototype with Framer](https://medium.com/@kennycheny/creating-your-first-prototype-with-framer-c39221da7668#.3jcem1x61) - Animation tutorial by Kenny Chen.
 * [Framer.js Workshop](http://codepen.io/collection/nRzzaZ/) - Collection of Framer examples by [Jay Stakelon](https://twitter.com/stakelon).
-* [Motion is Emotion: Prototyping Microinteractions for Apple Watch with Framer Studio](https://blog.grandcentrix.net/motion-is-emotion/) - Apple Watch temperature gauge prototype tutorial.
+* [Motion is Emotion: Prototyping Microinteractions for Apple Watch with Framer Studio](https://web.archive.org/web/20160304015511/https://blog.grandcentrix.net/motion-is-emotion/) - Apple Watch temperature gauge prototype tutorial.
 * [Periscope Heart Animation Demo at the Seattle FramerJS Meetup](https://www.youtube.com/watch?v=qFUXxqzZytU) - Presentation by [Jordan Dobson](https://twitter.com/jordandobson) on how to create Periscope heart animation with Framer.
 * [Using Parse to power up your Framer prototypes](https://medium.com/facebook-design/using-parse-to-power-up-your-framer-prototypes-88cb87009d00#.8noe6r2wb) - Using Framer with real data Part 1 by George Kedenburg III.
 * [Give your Framer prototypes a better memory](https://medium.com/facebook-design/give-your-framer-prototypes-a-better-memory-212b26e0f934#.6ws4983e7) - Using Framer with real data Part 2 by George Kedenburg III.
