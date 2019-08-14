@@ -176,7 +176,6 @@
 ## UI Libraries
 * [iOS 11 iPhone GUI](https://github.com/facebookincubator/ios-11-gui-for-framer) - Templates of GUI elements found in the public release of iOS 11.
 * [Framework](https://github.com/steveruizok/framework) - A general-purpose component kit for Framer.
-* [Flare](https://gumroad.com/l/DbsPj) - Interactive prototype using Flare UI kit.
 
 ## Sites
 * [Prototyping With Framer](http://www.prototypingwithframer.com) - Blog by Kenny Chen with lots of great examples, tutorials.
