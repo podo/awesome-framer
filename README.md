@@ -192,6 +192,8 @@
 * [Android Kit](https://framer.com/assets/static/downloads/kits/android-kit.zip) - Material Design elements for your next Android app. Direct link.
 * [Web Kit](https://framer.com/assets/static/downloads/kits/web-kit.zip) - All the elements you’ll need to start your next web project. Direct link.
 * [Wireframe Kit](https://framer.com/assets/static/downloads/kits/wireframe-kit.zip) - Basic wireframe elements to blueprint your next big project. Direct link.
+* [AllFramer](https://allframer.club/) - Discover the curated list of Framer templates, components, blocks, plugins, and more with a blazing-fast search & filter experience!
+
 
 ---
 
