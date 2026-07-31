@@ -193,6 +193,7 @@
 * [Web Kit](https://framer.com/assets/static/downloads/kits/web-kit.zip) - All the elements you’ll need to start your next web project. Direct link.
 * [Wireframe Kit](https://framer.com/assets/static/downloads/kits/wireframe-kit.zip) - Basic wireframe elements to blueprint your next big project. Direct link.
 * [AllFramer](https://allframer.club/) - Discover the curated list of Framer templates, components, blocks, plugins, and more with a blazing-fast search & filter experience!
+* [Checkout Page](https://checkoutpage.com/platforms/framer) - Native plugin for selling digital products, subscriptions, and event tickets on your Framer site through your own Stripe account.
 
 
 ---
