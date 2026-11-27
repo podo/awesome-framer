@@ -194,6 +194,7 @@
 * [Wireframe Kit](https://framer.com/assets/static/downloads/kits/wireframe-kit.zip) - Basic wireframe elements to blueprint your next big project. Direct link.
 * [AllFramer](https://allframer.club/) - Discover the curated list of Framer templates, components, blocks, plugins, and more with a blazing-fast search & filter experience!
 * [Checkout Page](https://checkoutpage.com/platforms/framer) - Native plugin for selling digital products, subscriptions, and event tickets on your Framer site through your own Stripe account.
+* [Template QA](https://qa.shashankthigale.com/) - Free plugin and web checker that opens a published Framer site at eight screen widths and lists layout, accessibility and SEO problems with the fix for each.
 
 
 ---
